@@ -1,0 +1,1 @@
+{"preload": true, "load_on_question": true, "load_when_ivl": ">=0", "provider_urls": [["Bing", "https://www.bing.com/images/search?q=%s"], ["Wiki", "https://en.wikipedia.org/wiki/?search=%s"]], "image_quality": 50, "proxy_settings": {"enabled": false, "host": "", "user": "", "password": "", "type": "HTTP", "port": ""}}
